@@ -126,7 +126,7 @@ module.exports = {
         riserImages: ['./img/10.png']
     },
     KS: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
