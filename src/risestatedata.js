@@ -107,7 +107,6 @@ module.exports = {
         riser: '',
         narrative: '',
         victory: true,
-        narrative: ''
     },
     IL: {
         fillKey: 'No Impl',
@@ -191,7 +190,7 @@ module.exports = {
         riserImages: ['./img/12.png']
     },
     MO: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
@@ -412,6 +411,5 @@ module.exports = {
         riser: '',
         narrative: '',
         victory: true,
-        narrative: ''
     },
 }
