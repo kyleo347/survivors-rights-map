@@ -113,8 +113,9 @@ module.exports = {
         fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
-        riser: 'RISER NEEDED',
-        narrative: ''
+        riser: 'Marlen Komar',
+        narrative: "My name is Marlen Komar and I became apart of Rise because I want to help our country get onto a path where it takes survivors seriously. From the #MeToo and #TimesUp movements, to stories shared in confidence among friends, to my own sexual assaults, it's become clear that many women are victims of sexual abuse, and part of the problem is that after these assaults, many of us aren't aware if we have rights or not. More times than not it feels like we don't. I joined Rise because I want clear laws that show survivors that they are protected in specific ways and can achieve justice through those exact pathways.  And more importantly, laws that clearly show what happened to them was wrong, and that they have the right to demand that justice.",
+        riserImages: ['./img/29.gif']
     },
     IN: {
         fillKey: 'Partial Impl',
@@ -133,7 +134,7 @@ module.exports = {
         narrative: ''
     },
     KY: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
@@ -205,7 +206,7 @@ module.exports = {
         narrative: ''
     },
     MT: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
@@ -221,7 +222,7 @@ module.exports = {
         riserImages: ['./img/13.png']
     },
     ND: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
@@ -258,14 +259,14 @@ module.exports = {
         narrative: ''
     },
     NV: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
         narrative: ''
     },
     NY: {
-        fillKey: 'Partial Impl',
+        fillKey: 'Full Impl',
         sponsors: 'Assemblywoman Simotas (D)',
         status: 'Preparing to file bill',
         riser: 'Abby Haglage',
@@ -330,14 +331,14 @@ module.exports = {
         narrative: ''
     },
     SD: {
-        fillKey: 'Partial Impl',
+        fillKey: 'Full Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
         narrative: ''
     },
     TN: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
@@ -389,7 +390,7 @@ module.exports = {
         url: 'https://actonthis.org/causes/rise-west-virginia'
     },
     WY: {
-        fillKey: 'No Impl',
+        fillKey: 'Partial Impl',
         sponsors: 'SPONSORS NEEDED',
         status: '',
         riser: 'RISER NEEDED',
